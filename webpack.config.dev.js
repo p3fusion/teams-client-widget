@@ -142,7 +142,7 @@ module.exports = {
   devServer: {
     historyApiFallback: true,
     allowedHosts: 'all',
-    port: 5000,
+    port: 3000,
     liveReload: true,
     server: 'https',
     client: {
